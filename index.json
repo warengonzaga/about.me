@@ -1,11 +1,11 @@
 {
     "basics": {
-      "name": "John Doe",
+      "name": "Waren Gonzaga",
       "label": "developer",
-      "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-      "email": "johndoe@gmail.com",
-      "phone": "(111) 333-4567",
-      "website": "http://johndoe.com",
+      "image": "https://en.gravatar.com/userimage/97628786/3e2392b692b0b7067b7683d74a6c7ff1.jpg?size=400",
+      "email": "dev@warengonzaga.com",
+      "phone": "+639466524569",
+      "website": "http://warengonzaga.com",
       "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "location": {
         "address": "22111 Makiling",
@@ -16,8 +16,8 @@
       },
       "profiles": [{
         "network": "Twitter",
-        "username": "johndoe",
-        "url": "http://twitter.com/johndoe"
+        "username": "warengonzaga",
+        "url": "http://twitter.com/warengonzaga"
       }]
     },
     "work": [{
